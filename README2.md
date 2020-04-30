@@ -10,7 +10,5 @@ original_data 爬取的论文（1千多篇）数据
 count_words 统计所有摘要和题目的医学词频数据
 order_count_words 对词频进行排序的数据
 
-
-
 本项目代码地址在博客https://blog.csdn.net/qq_31089125/article/details/105588962中
 包括爬虫 正则化 jieba分词 及spark技术的对数据进行处理分析并统计词频。
